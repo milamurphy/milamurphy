@@ -2,7 +2,7 @@
 <p> 🖥️ I'm a passionate programmer with expertise in both front-end and back-end development
 </p>
 <p> 🎓 I'm a second year student in Honours Computing in Software Development at <a href="https://www.dkit.ie/">DkIT</a></p>
-<p> 📫 Contact me at milamurp@gmail.com</p>
+<p> 📫 Contact me at murphymila@outlook.com</p>
 
 [![GitHub milamurphy](https://img.shields.io/github/followers/milamurphy?label=follow&style=social)](https://github.com/milamurphy)
 
@@ -21,7 +21,7 @@ let mila = {
             js: [MongoDB, Firebase]
         },
     },
-    interests: ["digital art", "music", "hot chocolate"],
+    interests: ["digital art", "music", "gym"],
     languages: ["English", "German", "Irish", "Thai"]     
 };
 ```
