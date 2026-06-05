@@ -11,7 +11,7 @@
 ```javascript
 let mila = {
     pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS, Java, C++, PHP, Python],
+    code: [Javascript, HTML, CSS, Java, C++, Python, PHP],
     tools: [React, MySQL],
     technologies: {
         frontEnd: {
@@ -21,13 +21,7 @@ let mila = {
             js: [MongoDB, Firebase]
         },
     },
-    interests: ["digital art", "music", "gym"],
+    interests: ["digital art", "running", "gym"],
     languages: ["English", "German", "Irish", "Thai"]     
 };
 ```
-
-### Some of the commits from my 8-month Yahoo internship!
-<img width="385" height="180" alt="image" src="https://github.com/user-attachments/assets/7b01f115-c0fd-4e9b-8541-40b16a6fad06" /><br>
-I had **150+ contributions** from January until August
-
-<!-- **orchidbit/orchidbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
